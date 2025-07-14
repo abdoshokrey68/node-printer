@@ -1,0 +1,20 @@
+{
+  "name": "pos-printer",
+  "version": "1.0.0",
+  "description": "access all of your printers by websocket and print any thing you need",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Abdo Shokrey",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^17.2.0",
+    "escpos-buffer": "^4.1.0",
+    "pdf-to-printer": "^5.6.0",
+    "pdfkit": "^0.17.1",
+    "printer": "^0.4.0",
+    "puppeteer": "^24.12.1",
+    "pusher-js": "^8.4.0"
+  }
+}
