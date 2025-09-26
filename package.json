@@ -9,12 +9,13 @@
   "author": "Abdo Shokrey",
   "license": "ISC",
   "dependencies": {
-    "dotenv": "^17.2.0",
+    "dotenv": "^17.2.2",
     "escpos-buffer": "^4.1.0",
     "node-fetch": "^2.7.0",
     "pdf-to-printer": "^5.6.0",
     "pdfkit": "^0.17.1",
     "printer": "^0.4.0",
+    "prompt-sync": "^4.2.0",
     "puppeteer": "^24.12.1",
     "pusher-js": "^8.4.0"
   }
